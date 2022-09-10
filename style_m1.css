@@ -1,0 +1,52 @@
+.logo{
+     max-width: 100%;
+     background-image: URL("milk.png");
+     position: sticky;
+	 background-repeat:no-repeat;
+    background-position:top;
+    background-size: 100%;
+	list-style: none;}
+.logo_bar{
+    text-align: center;
+    }
+.logo_img{
+    height: 250px;
+    border-radius: 50%;
+    text-align: center;
+    margin-top: 340px;
+	}
+
+
+
+.logo_text{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+
+.media_links ul{
+    list-style: none;
+}
+.media_links a{
+    text-decoration: none;
+}
+
+.media_links{
+    text-align: center;
+}
+.media_links img{
+	margin-top:30px;
+	height:100px;
+	width:100px;
+	border-radius: 50%;
+	padding-right:20px;
+	padding-left:20px;
+}
+.inst_button_link{
+    border-width:0px;
+	padding-right:0px;
+
+}
+.ra_button_link{
+	padding-right:0px;
+	
+}
+

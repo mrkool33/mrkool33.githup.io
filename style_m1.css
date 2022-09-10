@@ -13,7 +13,7 @@
     height: 250px;
     border-radius: 50%;
     text-align: center;
-    margin-top: 340px;
+    margin-top: 500px;
 	}
 
 
@@ -40,13 +40,3 @@
 	padding-right:20px;
 	padding-left:20px;
 }
-.inst_button_link{
-    border-width:0px;
-	padding-right:0px;
-
-}
-.ra_button_link{
-	padding-right:0px;
-	
-}
-
